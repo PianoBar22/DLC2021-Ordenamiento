@@ -13,4 +13,5 @@ public interface Ordenable
      * Implementa el algoritmo ordenamiento que se desee aplicar.
      */
     void ordenar();
+    long getInversiones();
 }
